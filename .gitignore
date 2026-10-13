@@ -14,3 +14,7 @@ wheels/
 
 # db folder
 db/
+
+# gradio log
+03ChatBot/.gradio
+03ChatBot/flagged_demo/
